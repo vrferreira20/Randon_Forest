@@ -1,4 +1,3 @@
-#✅ Resumo:
 Esse código treina um modelo de Random Forest para prever se um cliente sofreu acidente, usando dados de um seguro.
 
 1. Carrega e prepara os dados.
